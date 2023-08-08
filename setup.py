@@ -2,7 +2,6 @@ from setuptools import setup, find_packages
 
 setup(
     name='fastapi-factory',
-    packages=['fastapi-factory'],
     version='0.1.0',
     license='MIT',
     description='Some simple utilities for building `FastAPI` application.',
