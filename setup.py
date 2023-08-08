@@ -15,7 +15,7 @@ setup(
         'starlette-exporter'
     ],
     classifiers=[
-        'Developer Status :: 3 - Alpha',
+        'Development Status :: 3 - Alpha',
         'Intended Audience :: Developers',
         'Topic :: Software Development :: Libraries :: Python Modules',
         'License :: OSI Approved :: MIT License',
